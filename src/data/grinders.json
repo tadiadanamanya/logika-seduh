@@ -1,0 +1,53 @@
+[
+  {
+    "brand": "Comandante",
+    "models": [
+      { "name": "C40 MK4", "defaultClicks": 24 },
+      { "name": "C40 MK3", "defaultClicks": 24 },
+      { "name": "Trailmaster", "defaultClicks": 25 }
+    ]
+  },
+  {
+    "brand": "Timemore",
+    "models": [
+      { "name": "Chestnut C2", "defaultClicks": 16 },
+      { "name": "Chestnut C3", "defaultClicks": 14 },
+      { "name": "Slim", "defaultClicks": 15 },
+      { "name": "X", "defaultClicks": 16 }
+    ]
+  },
+  {
+    "brand": "Fellow",
+    "models": [
+      { "name": "Ode Gen 2", "defaultClicks": 5 }
+    ]
+  },
+  {
+    "brand": "1Zpresso",
+    "models": [
+      { "name": "JX-Pro", "defaultClicks": 32 },
+      { "name": "K-Max", "defaultClicks": 7 },
+      { "name": "K-Ultra", "defaultClicks": 7.5 },
+      { "name": "Q2", "defaultClicks": 18 }
+    ]
+  },
+  {
+    "brand": "Kingrinder",
+    "models": [
+      { "name": "K4", "defaultClicks": 90 },
+      { "name": "K6", "defaultClicks": 95 }
+    ]
+  },
+  {
+    "brand": "Baratza",
+    "models": [
+      { "name": "Encore", "defaultClicks": 15 }
+    ]
+  },
+  {
+    "brand": "Other",
+    "models": [
+      { "name": "Manual Input", "defaultClicks": 0 }
+    ]
+  }
+]
