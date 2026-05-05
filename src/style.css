@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-neon: #ccff00;
+  --font-montserrat: "Montserrat", sans-serif;
+}
+
+body {
+  font-family: var(--font-montserrat);
+  background-color: var(--color-gray-900);
+  color: var(--color-gray-100);
+}
